@@ -7,22 +7,22 @@
 ---
 
 <div>
-  <img height="250" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joemogy"/>
+  <img width=100% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joemogy"/>
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joemogy&layout=compact&langs_count=10"/>
 </div>
 
 <div>
   
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=joemogy"/>
+  <img width=100% src="https://github-readme-streak-stats.herokuapp.com/?user=joemogy"/>
 
-  <img height="75" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoemogy%2Fhit-counter&count_bg=%236DAC3D&title_bg=%23555555&icon=grafana.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+  <img width=100% src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoemogy%2Fhit-counter&count_bg=%236DAC3D&title_bg=%23555555&icon=grafana.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
   
   
   
-  <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joemogy"/>
+  <img width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=joemogy"/>
   
-  <img height="250" align="left" src="https://github-readme-stats.vercel.app/api?username=joemogy&count_private=true&include_all_commits=true"/>
+  <img width=100% align="left" src="https://github-readme-stats.vercel.app/api?username=joemogy&count_private=true&include_all_commits=true"/>
   
   <img height="200" src="https://github-profile-trophy.vercel.app/?username=joemogy"/>
   
