@@ -9,7 +9,7 @@
 <div>
   <img width=100% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joemogy"/>
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joemogy&layout=compact&langs_count=10"/>
+  <img width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=joemogy&layout=compact&langs_count=10"/>
 </div>
 
 <div>
@@ -24,9 +24,9 @@
   
   <img width=100% align="left" src="https://github-readme-stats.vercel.app/api?username=joemogy&count_private=true&include_all_commits=true"/>
   
-  <img height="200" src="https://github-profile-trophy.vercel.app/?username=joemogy"/>
+  <img width=100% src="https://github-profile-trophy.vercel.app/?username=joemogy"/>
   
-  <img height="90" src="https://gists-readme.yizack.com/api?user=joemogy"/>  
+  <img width=100% src="https://gists-readme.yizack.com/api?user=joemogy"/>  
   
   
   
