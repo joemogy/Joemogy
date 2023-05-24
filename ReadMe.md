@@ -13,7 +13,7 @@
 
 
 
-# Welcome! Badges 4 README.md Profile
+# Welcome! Badges For Your ReadMe.md Profile
 
 Improve your README.md profile with these amazing badges. See a sample [here](https://github.com/joemogy)
 
