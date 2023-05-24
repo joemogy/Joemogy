@@ -12,8 +12,6 @@
 </div>
 
 <div>
-  <img height="170" src="https://github-readme-activity-graph.cyclic.app/graph?username=joemogy&theme=minimal" />
-  <img height="170" src="https://gists-readme.yizack.com/api/pin?user=joemogy&id=7866ae1b3651ce8b300cc0cad4478854&owner=true" />
   <img height="170" src="https://gists-readme.yizack.com/api?user=joemogy" />
   <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joemogy" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joemogy" />
