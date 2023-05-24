@@ -12,14 +12,14 @@
 </div>
 
 <div>
-  <img height="200" src="https://github-profile-trophy.vercel.app/?username=joemogy"/>
   
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=joemogy"/>
-
   
   <img height="250" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joemogy"/>
   
   <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joemogy"/>
+  
+  <img height="200" src="https://github-profile-trophy.vercel.app/?username=joemogy"/>
   
   <img height="90" src="https://gists-readme.yizack.com/api?user=joemogy"/>
   
