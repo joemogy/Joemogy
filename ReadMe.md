@@ -19,7 +19,7 @@
   
   <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joemogy"/>
   
-  <img height="200" src="https://github-profile-trophy.vercel.app/?username=joemogy"/>
+  <img height="200" src="https://github-profile-trophy.vercel.app/?username=joemogy&layout=compact"/>
   
   <img height="90" src="https://gists-readme.yizack.com/api?user=joemogy"/>
   
