@@ -13,12 +13,11 @@
 
 <div>
   <img height="250" src="https://github-profile-trophy.vercel.app/?username=joemogy" />
+  <img height="80" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoemogy%2Fhit-counter&count_bg=%236DAC3D&title_bg=%23555555&icon=grafana.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=joemogy" />
   <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joemogy" />
   <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joemogy" />
   <img height="90" src="https://gists-readme.yizack.com/api?user=joemogy" />
-  <img height="80" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoemogy%2Fhit-counter&count_bg=%236DAC3D&title_bg=%23555555&icon=grafana.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
-  
 </div>
   
 
