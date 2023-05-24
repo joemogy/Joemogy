@@ -22,7 +22,7 @@
   
   <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joemogy"/>
   
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=joemogy&count_private=true&include_all_commits=true"/>
+  <img height="250" align="left" src="https://github-readme-stats.vercel.app/api?username=joemogy&count_private=true&include_all_commits=true"/>
   
   <img height="200" src="https://github-profile-trophy.vercel.app/?username=joemogy"/>
   
