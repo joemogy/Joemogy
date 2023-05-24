@@ -20,7 +20,7 @@
   
   
   
-  <img width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=joemogy"/>
+  <img width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=joemogy&langs_count=10"/>
   
   <img width=100% align="left" src="https://github-readme-stats.vercel.app/api?username=joemogy&count_private=true&include_all_commits=true"/>
   
