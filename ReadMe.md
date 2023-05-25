@@ -1,5 +1,4 @@
-<a href="https://github.com/joemogy/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://github.com/joemogy/github-profile-trophy">
+
   <img width=100% src="https://github-profile-trophy.vercel.app/?username=joemogy&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
