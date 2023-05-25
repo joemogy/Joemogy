@@ -28,7 +28,33 @@
   
   <img width=42% src="https://gists-readme.yizack.com/api?user=joemogy"/>  
   
-  
+  example: green version
+
+![svg](https://raw.githubusercontent.com/joemogy/github-profile-3d-contrib/main/docs/demo/profile-green-animate.svg)
+
+example: season version (Northern Hemisphere.)
+
+![svg](https://raw.githubusercontent.com/joemogy/github-profile-3d-contrib/main/docs/demo/profile-season-animate.svg)
+
+example: season version (Southern Hemisphere.)
+
+![svg](https://raw.githubusercontent.com/joemogy/github-profile-3d-contrib/main/docs/demo/profile-south-season-animate.svg)
+
+example: night view version
+
+![svg](https://raw.githubusercontent.com/joemogy/github-profile-3d-contrib/main/docs/demo/profile-night-view.svg)
+
+example: night green version
+
+![svg](https://raw.githubusercontent.com/joemogy/github-profile-3d-contrib/main/docs/demo/profile-night-green.svg)
+
+example: night rainbow version
+
+![svg](https://raw.githubusercontent.com/joemogy/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg)
+
+example: git block version
+
+![svg](https://raw.githubusercontent.com/joemogy/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
   
 </div>
   
