@@ -8,6 +8,7 @@
 ---
 
 <div>
+  
   <img width=42% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joemogy"/>
  
   <img width=42% src="https://github-readme-stats.vercel.app/api/top-langs/?username=joemogy&layout=compact&langs_count=10"/>
