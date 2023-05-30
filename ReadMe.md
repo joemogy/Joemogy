@@ -76,6 +76,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 - [Welcome](#welcome)
 - 
 - [How to use](#how-to-use)
+- 
 - [Badges](#badges)
 
   - [🧑🏼‍🏭 Static](#-static)
