@@ -1,14 +1,15 @@
 <a>
+  function fibonacci(n) {if (n <= 1) { return n; } else { return fibonacci(n - 1) + fibonacci(n - 2) }}
+</a>
+
+
+<a>
  
  <img width=100% src="https://github-profile-trophy.vercel.app/?username=joemogy&column=8&theme=gruvbox&no-frame=true"/>
   
   
 </a>
 
-<a>
-  function fibonacci(n) {if (n <= 1) { return n; } else { return fibonacci(n - 1) + fibonacci(n - 2) }}
-</a>
----
 
 <div>
   
