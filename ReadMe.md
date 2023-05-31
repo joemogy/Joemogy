@@ -79,6 +79,7 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 - 
 - [Badges](#badges)
 
+
   - [🧑🏼‍🏭 Static](#-static)
     - [📊 Analytics](#-analytics-)
     - [🤖 Artificial Intelligence](#-artificial-intelligence-)
